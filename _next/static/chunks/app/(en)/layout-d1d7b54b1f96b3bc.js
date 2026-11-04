@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[90,844],{1290:()=>{},1349:e=>{e.exports={style:{fontFamily:"'Be Vietnam Pro', 'Be Vietnam Pro Fallback'",fontStyle:"normal"},className:"__className_b1a73d"}},6401:(e,s,a)=>{Promise.resolve().then(a.t.bind(a,1349,23)),Promise.resolve().then(a.t.bind(a,1290,23))}},e=>{e.O(0,[883,441,255,358],()=>e(e.s=6401)),_N_E=e.O()}]);

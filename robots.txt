@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://kotding.github.io/light-viewer-releases/sitemap.xml

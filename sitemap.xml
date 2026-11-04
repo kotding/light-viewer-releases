@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/en/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/" />
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/tai-ve/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/tai-ve/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/download/" />
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/en/download/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/tai-ve/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/download/" />
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/huong-dan/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/huong-dan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/guide/" />
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/en/guide/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/huong-dan/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/guide/" />
+<changefreq>monthly</changefreq>
+<priority>0.7000000000000001</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/cau-hoi-thuong-gap/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/cau-hoi-thuong-gap/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/faq/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/en/faq/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/cau-hoi-thuong-gap/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/faq/" />
+<changefreq>monthly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/chinh-sach-bao-mat/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/chinh-sach-bao-mat/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/privacy/" />
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/en/privacy/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/chinh-sach-bao-mat/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/privacy/" />
+<changefreq>monthly</changefreq>
+<priority>0.19999999999999998</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/dieu-khoan-su-dung/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/dieu-khoan-su-dung/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/terms/" />
+<changefreq>monthly</changefreq>
+<priority>0.3</priority>
+</url>
+<url>
+<loc>https://kotding.github.io/light-viewer-releases/en/terms/</loc>
+<xhtml:link rel="alternate" hreflang="vi" href="https://kotding.github.io/light-viewer-releases/dieu-khoan-su-dung/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://kotding.github.io/light-viewer-releases/en/terms/" />
+<changefreq>monthly</changefreq>
+<priority>0.19999999999999998</priority>
+</url>
+</urlset>
